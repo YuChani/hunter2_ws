@@ -13,24 +13,6 @@ Download and install gazebo you can go to the website :http://gazebosim.org/inst
 ------
 
 
-
-## Current support Gazebo simulation product list
-
-| Product name     | support status |
-| :--------------- | -------------- |
-| SCOUT 1.0×       | ×              |
-| HUNTER 1.0       | ×              |
-| SCOUT 2.0        | ×              |
-| HUNTER 2.0       | ×              |
-| SCOUT MINI       | ×              |
-| SCOUT MINI(OMNI) | ×              |
-| TRACER           | ×              |
-| RANGER MINI      | √              |
-| LIMO             | ×              |
-| HUNTER SE        | √              |
-
-
-
 ## About usage
 
 1) clone the current repositories to your own workspace
